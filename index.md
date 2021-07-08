@@ -1,37 +1,75 @@
-## Welcome to GitHub Pages
+# 一
 
-You can use the [editor on GitHub](https://github.com/Atomization/22birthday/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+誰でも理解し難い文字を書けるようなりたい。僕しか書けない文字を書きたい。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 二
 
-### Markdown
+不让未来的自己对当下的所作所为感到愚蠢，完全是毫无根据的奢望。大多数的决定都无所谓最正确，无非是做抉择的时分能够做出的最优解罢了。悔恨彼时的自己并不具备相应的能力，再正常不过了。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+未来の自分に今の行為にバカバカしく感じさせないとは、全く根拠のない野望だろう。大方の決まりは丸でも罰でも言えなくて、選択する暁にできる最適解でしかない。あの時の自らは相応しい能力がないことを後悔するのは、実に普通です。
 
-```markdown
-Syntax highlighted code block
+# 三
 
-# Header 1
-## Header 2
-### Header 3
+有するのは幸いであり、失ったのは人生そのものだ。
 
-- Bulleted
-- List
+# 四
 
-1. Numbered
-2. List
+不是每一份努力都会有结果，不是每一段感情都会被回应。尽力而为就好。
 
-**Bold** and _Italic_ and `Code` text
+# 五
 
-[Link](url) and ![Image](src)
-```
+いいえ、違う。努力は無駄にならない。痛みがたっぷりあるから、変わりを求める。「何も捨てることができない人には、何も変えることができない。」
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# 六
 
-### Jekyll Themes
+只要把时间的尺度稍微拉长一点，生活不就是越变越烂么。我所熟悉的热爱的珍重的所有所有所有所有，都终将离我远去。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Atomization/22birthday/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# 七
 
-### Support or Contact
+いくらどんな一生があっても、人間は死ぬ時には誰でも孤独だ。
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# 八
+
+愛は勇者の遊びで、僕は臆病者だ。
+
+# 九
+
+一人だけで生きられるけれども、誰かに大事にしてもらいたい。
+
+# 十
+
+強くなりたい、そして優しくなりたい。僕は優しさが強さを踏まえると望んでいる。ただの優しさは不幸を招きやすい。
+
+# 十一
+
+# 十二
+
+ 
+
+# 十三
+
+「人には様々な機能がある。僕には、人を幸せにする機能が備わっていません。」
+
+# 十四
+
+# 十五
+
+冬場が嫌いだ。夜が嫌いだ。孤独が嫌いだ。
+
+# 十六
+
+# 十七
+
+# 十八
+
+# 十九
+
+# 二十
+
+# 二十一
+
+本物が欲しい。もう大切な本物が手に入ったけど、新たな本物が欲しい。
+
+# 二十二
+
+誕生日おめでとうございます。
