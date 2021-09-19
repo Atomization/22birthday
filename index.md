@@ -41,3 +41,6 @@
 &emsp;&emsp;这就要说，我希望自己的特别是有价值的；或者稍退一步，我希望自己能够有一些特别的价值。
 
 &emsp;&emsp;今年份的自以为是的独白也就到此为止了。
+
+<font color=DarkGray>Edited Sep 20,2021</font>
+
