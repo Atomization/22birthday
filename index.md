@@ -42,5 +42,5 @@
 
 &emsp;&emsp;今年份的自以为是的独白也就到此为止了。
 
-<font color=DarkGray>Edited Sep 20,2021</font>
+<font color=DarkGray>Edited Sep. 20,2021</font>
 
